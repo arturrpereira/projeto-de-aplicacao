@@ -1,0 +1,206 @@
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.funcionarios.resources
+C:\Users\felip\OneDrive\Documentos\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+E:\Faculdade\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\Npgsql.dll
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.funcionarios.resources
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CopyComplete
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll
+E:\Faculdade\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+E:\repos\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\Npgsql.dll
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.CadastroCliente.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.CargoView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Form1.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.FuncionarioView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.PedidoView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.PetView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ServiçoView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.UsuarioView.resources
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CopyComplete
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+E:\repos\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.CargoView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ClienteView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.EstoqueView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.FornecedorView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.procurar_funcionario.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.inicio.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ListaPedidosView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.MaterialView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.UsuarioView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CopyComplete
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.PetView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ServiçoView.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Fornecedor_Material_View.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Funcionario_Servico_View.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_Estoque_View.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchMaterial.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCargo.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCliente.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchEstoque.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFuncionario.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchPET.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchServico.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchUsuario.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFornecedor.resources
+C:\Users\artuh\Downloads\backup\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_ServicoView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.CargoView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ClienteView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.EstoqueView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Fornecedor_Material_View.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.FornecedorView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Funcionario_Servico_View.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.procurar_funcionario.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.inicio.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ListaPedidosView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_Estoque_View.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_ServicoView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.MaterialView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.PetView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCargo.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCliente.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchEstoque.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFornecedor.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFuncionario.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchMaterial.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchPET.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchServico.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchUsuario.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ServiçoView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.UsuarioView.resources
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CopyComplete
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.exe
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.deps.json
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.runtimeconfig.json
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.dll
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\PA.pdb
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\bin\Debug\net6.0-windows\Npgsql.dll
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.AssemblyReference.cache
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.Properties.Resources.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.CargoView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ClienteView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.EstoqueView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Fornecedor_Material_View.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.FornecedorView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Funcionario_Servico_View.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.procurar_funcionario.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.index.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.inicio.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ListaPedidosView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.login.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_Estoque_View.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.Material_ServicoView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.MaterialView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.PetView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCargo.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchCliente.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchEstoque.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFornecedor.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchFuncionario.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchMaterial.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchPET.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchServico.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.SearchUsuario.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.ServiçoView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.View.UsuarioView.resources
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.GenerateResource.cache
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfoInputs.cache
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.AssemblyInfo.cs
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CoreCompileInputs.cache
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.csproj.CopyComplete
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.dll
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\refint\PA.dll
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.pdb
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\PA.genruntimeconfig.cache
+E:\Downloads\PAEngenharia (2)\PAEngenharia\PAEngenharia\PA\PA\obj\Debug\net6.0-windows\ref\PA.dll

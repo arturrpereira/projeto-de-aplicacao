@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\CargoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ClienteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EstoqueView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Fornecedor-Material-View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FornecedorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Funcionario-Servico-View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FuncionarioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ListaPedidosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Material-Estoque-View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Material-ServicoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\MaterialView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\PetView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchPET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SearchUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ServiçoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\UsuarioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

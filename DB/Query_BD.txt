@@ -1,0 +1,197 @@
+CREATE TABLE IF NOT EXISTS Cargo(
+  id_cargo Serial NOT NULL,
+  desc_cargo VARCHAR(45) NOT NULL,
+  salario_cargo FLOAT NOT NULL,
+  nivel_cargo INT NOT NULL,
+  PRIMARY KEY (id_cargo));
+
+CREATE TABLE IF NOT EXISTS Funcionario(
+    id_funcionario Serial NOT NULL,
+    nome_funcionario VARCHAR(45) NOT NULL,
+    rg_funcionario VARCHAR(45) NOT NULL,
+    cpf_funcionario VARCHAR(45) NOT NULL,
+    endereco_funcionario VARCHAR(45) NOT NULL,
+    numero_endereco_funcionario INT NOT NULL,
+    bairro_funcionario VARCHAR(45) NOT NULL,
+    dataadmissao_funcionario DATE NOT NULL,
+    datanasc_funcionario DATE NOT NULL,
+    genero_funcionario VARCHAR(45) NOT NULL,
+    telefone_funcionario VARCHAR(45) NOT NULL,
+    fk_id_cargo INT NOT NULL,
+  PRIMARY KEY (  id_funcionario  ),
+  CONSTRAINT   fk_Funcionario_Cargo  
+    FOREIGN KEY (  fk_id_cargo  )
+    REFERENCES Cargo   (  id_cargo  ));
+
+CREATE TABLE IF NOT EXISTS Usuario(
+    id_usuario Serial NOT NULL,
+    login_usuario VARCHAR(45) NULL,
+    senha_usuario VARCHAR(45) NULL,
+    fk_id_funcionario INT NOT NULL,
+  PRIMARY KEY (  id_usuario  ),
+  CONSTRAINT fk_Usuario_Funcionario  
+    FOREIGN KEY (  fk_id_funcionario  )
+    REFERENCES Funcionario   (  id_funcionario  ));
+
+
+CREATE TABLE IF NOT EXISTS Cliente(
+    id_cliente Serial NOT NULL,
+    nome_cliente VARCHAR(45) NOT NULL,
+    rg_cliente VARCHAR(45) NOT NULL,
+    email_cliente VARCHAR(45) NOT NULL,
+    cpf_cliente VARCHAR(45) NOT NULL,
+    telefone_cliente VARCHAR(45) NOT NULL,
+    datanasc_cliente DATE NOT NULL,
+    endereco_cliente VARCHAR(45) NOT NULL,
+    numero_endereco_cliente INT NOT NULL,
+    bairro_cliente VARCHAR(45) NOT NULL,
+    fk_id_usuario INT NOT NULL,
+  PRIMARY KEY (  id_cliente  ),
+  CONSTRAINT   fk_Cliente_Usuario  
+    FOREIGN KEY (  fk_id_usuario  )
+    REFERENCES Usuario (  id_usuario  ));
+
+CREATE TABLE IF NOT EXISTS Pet  (
+    id_pet Serial NOT NULL,
+    nome_pet VARCHAR(50) NOT NULL,
+    idade_pet INT NOT NULL,
+    raca_pet VARCHAR(45) NOT NULL,
+    porte_pet VARCHAR(45) NOT NULL,
+    cor_pet VARCHAR(45) NOT NULL,
+    fk_id_cliente INT NOT NULL,
+  PRIMARY KEY (  id_pet  ),
+  CONSTRAINT   fk_Pet_Cliente  
+    FOREIGN KEY (  fk_id_cliente  )
+    REFERENCES Cliente   (  id_cliente  ));
+
+CREATE TABLE IF NOT EXISTS Servico(
+    id_servico Serial NOT NULL,
+    desc_servico VARCHAR(45) NULL,
+    valor_servico FLOAT NULL,
+  PRIMARY KEY (  id_servico  ));
+
+CREATE TABLE IF NOT EXISTS Servico_has_Funcionario(
+    fk_id_servico INT NOT NULL,
+    fk_id_funcionario INT NOT NULL,
+  CONSTRAINT   fk_Servico_has_Funcionario_Servico 
+    FOREIGN KEY (  fk_id_servico  )
+    REFERENCES Servico   (  id_servico  ),
+  CONSTRAINT   fk_Servico_has_Funcionario_Funcionario 
+    FOREIGN KEY (  fk_id_funcionario  )
+    REFERENCES Funcionario   (  id_funcionario  ));
+
+CREATE TABLE IF NOT EXISTS Pedido   (
+    id_pedido Serial NOT NULL,
+    data_pedido DATE NOT NULL,
+    status_pedido VARCHAR(45) NOT NULL,
+    fk_id_cliente INT NOT NULL,
+    forma_pagamento VARCHAR(45) NULL,
+  PRIMARY KEY (  id_pedido  ),
+  CONSTRAINT   fk_Pedido_Cliente  
+    FOREIGN KEY (  fk_id_cliente  )
+    REFERENCES Cliente(  id_cliente  ));
+
+
+CREATE TABLE IF NOT EXISTS prestar_servico(
+    data_execucao DATE NOT NULL,
+    fk_id_servico INT NOT NULL,
+    fk_id_pet INT NOT NULL,
+    fk_id_funcionario INT NOT NULL,
+    fk_id_pedido INT NOT NULL,
+    status_servico VARCHAR(45) NOT NULL,
+  CONSTRAINT   fk_prestar_servico_Servico  
+    FOREIGN KEY (  fk_id_servico  )
+    REFERENCES Servico   (  id_servico  ),
+  CONSTRAINT   fk_prestar_servico_Pet  
+    FOREIGN KEY (  fk_id_pet  )
+    REFERENCES Pet   (  id_pet  ),
+  CONSTRAINT   fk_prestar_servico_Funcionario 
+    FOREIGN KEY (  fk_id_funcionario  )
+    REFERENCES Funcionario   (  id_funcionario  ),
+  CONSTRAINT   fk_prestar_servico_Pedido  
+    FOREIGN KEY (  fk_id_pedido  )
+    REFERENCES Pedido   (  id_pedido  ));
+
+CREATE TABLE IF NOT EXISTS Material(
+    id_material Serial NOT NULL,
+    desc_material VARCHAR(45) NOT NULL,
+    preco_material FLOAT NOT NULL,
+    qtd_minimo FLOAT NOT NULL,
+    qtd_maximo FLOAT NOT NULL,
+  PRIMARY KEY (  id_material  ));
+
+CREATE TABLE IF NOT EXISTS Material_has_Servico (
+    fk_id_material INT NOT NULL,
+    fk_id_servico INT NOT NULL,
+    qtd_material VARCHAR(45) NOT NULL,
+  CONSTRAINT fk_Material_has_Servico_Material  
+    FOREIGN KEY (  fk_id_material  )
+    REFERENCES Material   (  id_material  ),
+  CONSTRAINT fk_Material_has_Servico_Servico  
+    FOREIGN KEY (  fk_id_servico  )
+    REFERENCES Servico   (  id_servico  ));
+
+
+CREATE TABLE IF NOT EXISTS Estoque(
+    id_estoque Serial NOT NULL,
+    desc_estoque VARCHAR(45) NOT NULL,
+  PRIMARY KEY (  id_estoque  ));
+
+CREATE TABLE IF NOT EXISTS Material_has_Estoque(
+    quantidade_estoque FLOAT NOT NULL,
+    fk_id_material INT NOT NULL,
+    fk_id_estoque INT NOT NULL,
+  CONSTRAINT fk_Material_has_Estoque_Material 
+    FOREIGN KEY (  fk_id_material  )
+    REFERENCES Material   (  id_material  ),
+  CONSTRAINT fk_Material_has_Estoque_Estoque1  
+    FOREIGN KEY (  fk_id_estoque  )
+    REFERENCES Estoque   (  id_estoque  ));
+
+CREATE TABLE IF NOT EXISTS Movimentacao   (
+    id_movimentacao Serial NOT NULL,
+    data_movimentacao DATE NOT NULL,
+    qtd_movimentacao FLOAT NOT NULL,
+    tipo_movimentacao BOOLEAN NOT NULL,
+    valor_unitario FLOAT NOT NULL,
+    fk_id_material INT NOT NULL,
+    fk_id_estoque INT NOT NULL,
+  PRIMARY KEY (  id_movimentacao  ),
+  CONSTRAINT   fk_Movimentacao_Material  
+    FOREIGN KEY (  fk_id_material  )
+    REFERENCES Material   (  id_material  ),
+  CONSTRAINT   fk_Movimentacao_Estoque  
+    FOREIGN KEY (  fk_id_estoque  )
+    REFERENCES Estoque   (  id_estoque  ));
+
+CREATE TABLE IF NOT EXISTS Fornecedor   (
+    id_fornecedor Serial NOT NULL,
+    nomeFantasia VARCHAR(45) NULL,
+    razaoSocial VARCHAR(45) NULL,
+    CNPJFornecedor VARCHAR(45) NULL,
+    inscEstadual VARCHAR(45) NULL,
+    tipoContribuinte VARCHAR(45) NULL,
+    email_fornecedor VARCHAR(45) NULL,
+    responsavel_fornecedor VARCHAR(45) NULL,
+    contato_responsavel VARCHAR(45) NULL,
+    telefone_fornecedor VARCHAR(45) NULL,
+    endereco_fornecedor VARCHAR(45) NULL,
+  PRIMARY KEY (  id_fornecedor  ));
+
+CREATE TABLE IF NOT EXISTS Material_has_Fornecedor(
+    fk_id_material INT NOT NULL,
+    fk_id_fornecedor INT NOT NULL,
+  PRIMARY KEY (  fk_id_material  ,   fk_id_fornecedor  ),
+  CONSTRAINT   fk_Material_has_Fornecedor_Material  
+    FOREIGN KEY (  fk_id_material  )
+    REFERENCES Material(  id_material  ),
+  CONSTRAINT   fk_Material_has_Fornecedor_Fornecedor  
+    FOREIGN KEY (  fk_id_fornecedor  )
+    REFERENCES Fornecedor   (  id_fornecedor  ));
+
+
+
+
+
+
+
